@@ -1,0 +1,14 @@
+package com.cg.nutritions;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NutritionsApplicationTests {
+
+	@Test
+	void contextLoads() {
+
+	}
+
+}
